@@ -44,10 +44,5 @@ This is an interactive Snake Game built using Python, OpenCV, and cvzone. The ga
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 Enjoy playing the Snake Game with your hands and experience a unique way of gaming using computer vision!
 
