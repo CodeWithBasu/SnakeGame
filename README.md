@@ -19,7 +19,7 @@ This is an interactive Snake Game built using Python, OpenCV, and cvzone. The ga
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hyperxbasu/SnakeGame.git
+    git clone https://github.com/CodeWithBasu/SnakeGame.git
     ```
 2. Install required packages:
     ```bash
